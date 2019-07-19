@@ -1,0 +1,8 @@
+{
+    "Edit Bookmarks Here": "https://github.com/captncraig/TeamBookmarks/blob/master/exampe.json",
+    "Documentation": {
+        "Extension guide": "https://developer.chrome.com/extensions/getstarted",
+        "Bookmark api": "https://developer.chrome.com/extensions/bookmarks"
+    },
+    "Bookmark manager": "chrome://bookmarks"
+}
