@@ -1,0 +1,11 @@
+{
+    "name": "TeamBookmarks",
+    "version": "1.0",
+    "description": "Sync bookmarks between your whole team from a git repository",
+    "manifest_version": 2,
+    "permissions": ["storage","bookmarks"],
+    "background": {
+      "scripts": ["chrome-async.js","background.js"],
+      "persistent": false
+    }
+  }
